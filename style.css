@@ -14,8 +14,6 @@
     --button-border: rgb(53,53,53) 0.1rem solid;
     --button-border-2: rgb(255,255,255) 0.1rem solid;
     --container-border: rgb(163,163,163);
-
-    --test-blue: blue;
 }
 
 /* Dark Mode */
@@ -31,8 +29,6 @@
     --button-border: rgb(202,202,202) 0.1rem solid;
     --button-border-2: rgb(0,0,0) 0.1rem solid;
     --container-border: rgb(92,92,92);
-
-    --test-blue: blue;
 }
 
 * {
